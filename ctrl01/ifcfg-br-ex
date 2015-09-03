@@ -1,0 +1,6 @@
+DEVICE=br-ex
+ONBOOT=yes
+DEVICETYPE=ovs
+TYPE=OVSBridge
+BOOTPROTO=static
+PROMISC=yes
